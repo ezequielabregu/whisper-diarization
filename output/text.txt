@@ -1,0 +1,18 @@
+0.00 3.56 SPEAKER_01  Mary?
+3.56 5.56 SPEAKER_01  Hi.
+5.56 6.56 SPEAKER_01  Hello.
+6.56 8.84 SPEAKER_01  I'm Susan Thompson, Resource Manager.
+8.84 12.84 SPEAKER_00  Hi, I'm Mary Hansen and I'm applying for one of your kitchen jobs.
+12.84 13.84 SPEAKER_00  Great.
+13.84 15.64 SPEAKER_00  Here's a copy of my resume.
+15.64 16.64 SPEAKER_01  Great.
+16.64 17.64 SPEAKER_01  Have a seat, Mary.
+17.64 18.64 SPEAKER_00  Thank you.
+18.64 26.28 SPEAKER_01  Mary, do you have any experience working in the kitchen?
+26.28 27.28 SPEAKER_00  No.
+27.28 28.28 SPEAKER_00  But I want to learn.
+28.28 31.08 SPEAKER_00  Work hard and I cook a lot at home.
+31.08 32.08 SPEAKER_01  Okay.
+32.08 34.24 SPEAKER_01  Well, tell me about yourself.
+34.24 37.48 SPEAKER_00  Well, I love to learn new things.
+37.48 39.68 SPEAKER_00  I'm very organized.
